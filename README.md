@@ -1,5 +1,5 @@
-  #                                          Hi there 👋, I'm Shridatta
-  ##                                                 Data Analyst
+  #                                      										    														Hi there 👋, I'm Shridatta
+ ##                                                                                                 Data Analyst
 
 
 Here are some ideas to get you started:
